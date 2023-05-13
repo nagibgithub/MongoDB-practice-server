@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Fuad",
+        "age": 33,
+        "email": "fuad.bd2023@gmail.com",
+        "gender" : "male",
+        "married": true
+    },
+    {
+        "id": 2,
+        "name": "Ziad",
+        "age": 25,
+        "email": "ziad.bd2023@gmail.com",
+        "gender" : "male",
+        "married": false
+    },
+    {
+        "id": 3,
+        "name": "Asha",
+        "age": 28,
+        "email": "asha.bd2023@gmail.com",
+        "gender" : "female",
+        "married": true
+    }
+]
